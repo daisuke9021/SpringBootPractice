@@ -12,16 +12,17 @@ public class Demo1Application {
 
 	@Autowired
 	ApplicationStartup startup;
+	@Autowired
+	ConnectDB cdb;
 
 	@RequestMapping("/")
 	String home() {
+		cdb.connectDB();
 		return "HELLO WORLD";
 	}
 
 	public static void main(String[] args) {
 		SpringApplication.run(Demo1Application.class, args);
-
-
 	}
 
 }
