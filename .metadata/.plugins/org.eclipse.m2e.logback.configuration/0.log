@@ -1,0 +1,6 @@
+2020-10-31 09:31:44,624 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-31 09:32:55,947 [Worker-5: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Demo1:0.0.1-SNAPSHOT @ /Users/daisuke/Desktop/workplace/SpringBootPractice/Demo1/pom.xml.
+2020-10-31 09:33:01,442 [Worker-5: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo1/src/main/java
+2020-10-31 09:33:01,443 [Worker-5: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo1/src/main/resources
+2020-10-31 09:33:01,446 [Worker-5: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Demo1/src/main/resources
+2020-10-31 09:33:01,455 [Worker-5: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Demo1/src/test/java
