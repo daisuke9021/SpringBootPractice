@@ -6,7 +6,6 @@ import javax.annotation.PreDestroy;
 import org.springframework.stereotype.Component;
 
 @Component
-//@Scope("application")
 public class ApplicationStartup {
 
 	//このBeanが生成された時（アプリケーション起動時）に実行される
